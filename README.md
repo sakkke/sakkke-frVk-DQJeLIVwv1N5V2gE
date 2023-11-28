@@ -1,4 +1,4 @@
-os dev `@sakkke.dev` (https://bsky.app/profile/sakkke.dev) | port maintainer at Catppuccin
+os dev `@sakkke.dev` (https://bsky.app/profile/sakkke.dev) | oss dev | port maintainer at Catppuccin
 
 <!--
 **sakkke/sakkke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
